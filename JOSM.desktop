@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=JOSM
+Comment=Launch JOSM with Java compatibility options
+Exec=/home/yourusername/start-josm.sh
+Icon=/home/yourusername/Pictures/josm-icon.png
+Terminal=false
+Type=Application
+Categories=Education;Geography;
